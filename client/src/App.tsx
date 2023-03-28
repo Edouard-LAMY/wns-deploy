@@ -33,6 +33,7 @@ function App() {
           <h1>Wilders Book with CD</h1>
           <h2>BLABLA</h2>
           <h2>BLABLA</h2>
+          <h2>On est les meilleur.e.s</h2>
         </Container>
       </Header>
       <Container>
